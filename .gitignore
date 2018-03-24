@@ -1,0 +1,11 @@
+.gradle
+.gradle/
+.idea
+build/
+target/
+gradle/
+gradlew*
+*iml
+gradlew*
+nbactions.xml
+*iml
